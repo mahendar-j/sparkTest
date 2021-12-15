@@ -9,7 +9,7 @@
  * https://github.com/swagger-api/swagger-codegen.git
  */
 
-import backend.swagger.server.api.{MainServlet, PetApi}
+import backend.swagger.server.api.{MainServlet}
 import org.scalatra.LifeCycle
 
 import javax.servlet.ServletContext

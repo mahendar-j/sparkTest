@@ -20,6 +20,8 @@ jobs:
       - 
         name: "Build project with Maven"
         run: "mvn -B package --file pom.xml"
+        path: "sparkTest/target/"
+        
       - 
         name: "Upload Maven build artifact"
         uses: actions/upload-artifact@v2

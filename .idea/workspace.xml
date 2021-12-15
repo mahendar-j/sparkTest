@@ -4,35 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7983d753-851c-4c3e-875a-e53943fc9a0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sparkTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/mavencicd.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sparkTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ScalatraBootstrap.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ScalatraBootstrap.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ApiSwagger$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ApiSwagger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Configuration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JettyMain$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JettyMain$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JettyMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MovieSwagger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ResourcesApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ScalatraBootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backend/swagger/server/api/MainServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backend/swagger/server/api/User$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backend/swagger/server/api/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+    <list default="true" id="7983d753-851c-4c3e-875a-e53943fc9a0c" name="Default Changelist" comment="Added Intial version" />
+    <list id="90463c55-41a7-4494-867e-9186e8e00597" name="Revert &quot;intial version&quot;" comment="Revert &quot;intial version&quot;&#10;&#10;This reverts commit d7391609">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ScalatraBootstrap.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1639549381583</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Intial version">
+      <created>1639551877355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639551877355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -111,5 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added Intial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Intial version" />
   </component>
 </project>

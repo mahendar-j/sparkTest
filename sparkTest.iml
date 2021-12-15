@@ -9,6 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.12.2" level="application" />
     <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.12.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.json4s:json4s-native_2.12:3.5.3" level="project" />
@@ -260,6 +261,5 @@
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-proxy:9.4.38.v20210224" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.4.38.v20210224" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-client:9.4.38.v20210224" level="project" />
-    <orderEntry type="library" name="scala-sdk-2.12.2" level="application" />
   </component>
 </module>

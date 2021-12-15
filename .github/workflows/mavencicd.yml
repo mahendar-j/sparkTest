@@ -25,4 +25,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with: 
           name: artifact.jar
-          path: /Sparksamples/target/sparkTest2021-1.0-SNAPSHOT.jar
+          path: sparkTest/target/sparkTest-1.0-SNAPSHOT.jar

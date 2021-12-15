@@ -20,11 +20,10 @@ jobs:
       - 
         name: "Build project with Maven"
         run: "mvn -B package --file pom.xml"
-        path: "sparkTest/target/"
         
       - 
         name: "Upload Maven build artifact"
         uses: actions/upload-artifact@v2
         with: 
           name: artifact.jar
-          path: sparkTest/target/sparkTest-1.0-SNAPSHOT.jar
+          path: ${{ github.workspace }}/artifact/**/*

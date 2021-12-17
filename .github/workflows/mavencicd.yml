@@ -25,5 +25,5 @@ jobs:
         name: "Upload Maven build artifact"
         uses: actions/upload-artifact@v2
         with: 
-          name: artifact.jar
+          name: samplemovieapi.jar
           path: ${{ github.workspace }}/**/*
